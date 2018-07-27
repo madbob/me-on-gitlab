@@ -2,5 +2,4 @@
         echo "fuokk";
         echo "clybe";
         echo "egbwj";
-        echo "tfwgh";
 ?>
