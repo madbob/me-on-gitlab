@@ -4,5 +4,4 @@
         echo "yeutp";
         echo "kepnn";
         echo "ipurn";
-        echo "ighim";
 ?>
