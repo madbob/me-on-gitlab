@@ -38,5 +38,4 @@
         echo "hqwlb";
         echo "kmkkv";
         echo "sgrli";
-        echo "ydhpc";
 ?>
